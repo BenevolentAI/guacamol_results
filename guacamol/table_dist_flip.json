@@ -1,0 +1,68 @@
+[
+    {
+        "benchmark": "path",
+        "AAE": {
+            "link": "aae_dist.samples.html"
+        },
+        "Graph MCTS": {
+            "link": "graph_mcts_dist.samples.html"
+        },
+        "Random Sampler": {
+            "link": "random_sampler_dist.samples.html"
+        },
+        "SMILES LSTM": {
+            "link": "smiles_lstm_dist.samples.html"
+        },
+        "VAE": {
+            "link": "vae_dist.samples.html"
+        },
+        "ORGAN": {
+            "link": "organ_dist.samples.html"
+        }
+    },
+    {
+        "benchmark": "Validity",
+        "AAE": "0.822",
+        "Graph MCTS": "1.000",
+        "Random Sampler": "1.000",
+        "SMILES LSTM": "0.959",
+        "VAE": "0.870",
+        "ORGAN": "0.379"
+    },
+    {
+        "benchmark": "Uniqueness",
+        "AAE": "1.000",
+        "Graph MCTS": "1.000",
+        "Random Sampler": "0.997",
+        "SMILES LSTM": "1.000",
+        "VAE": "0.999",
+        "ORGAN": "0.841"
+    },
+    {
+        "benchmark": "Novelty",
+        "AAE": "0.998",
+        "Graph MCTS": "0.994",
+        "Random Sampler": "0.000",
+        "SMILES LSTM": "0.912",
+        "VAE": "0.974",
+        "ORGAN": "0.686"
+    },
+    {
+        "benchmark": "KL divergence",
+        "AAE": "0.886",
+        "Graph MCTS": "0.522",
+        "Random Sampler": "0.998",
+        "SMILES LSTM": "0.991",
+        "VAE": "0.982",
+        "ORGAN": "0.267"
+    },
+    {
+        "benchmark": "Frechet ChemNet Distance",
+        "AAE": "0.529",
+        "Graph MCTS": "0.015",
+        "Random Sampler": "0.929",
+        "SMILES LSTM": "0.913",
+        "VAE": "0.863",
+        "ORGAN": "0.000"
+    }
+]

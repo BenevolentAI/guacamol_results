@@ -1,0 +1,480 @@
+[
+    {
+        "benchmark": "path",
+        "Best of Dataset": {
+            "link": "./best_of_chembl_goal.json"
+        },
+        "SMILES GA": {
+            "link": "./smiles_ga_goal.json"
+        },
+        "Graph MCTS": {
+            "link": "./graph_mcts_goal.json"
+        },
+        "Graph GA": {
+            "link": "./graph_ga_goal.json"
+        },
+        "SMILES LSTM": {
+            "link": "./smiles_lstm_goal.json"
+        }
+    },
+    {
+        "benchmark": "Celecoxib rediscovery",
+        "Best of Dataset": {
+            "score": "0.505",
+            "link": "best_of_chembl_goal.Celecoxib%20rediscovery.html"
+        },
+        "SMILES GA": {
+            "score": "0.732",
+            "link": "smiles_ga_goal.Celecoxib%20rediscovery.html"
+        },
+        "Graph MCTS": {
+            "score": "0.355",
+            "link": "graph_mcts_goal.Celecoxib%20rediscovery.html"
+        },
+        "Graph GA": {
+            "score": "1.000",
+            "link": "graph_ga_goal.Celecoxib%20rediscovery.html"
+        },
+        "SMILES LSTM": {
+            "score": "1.000",
+            "link": "smiles_lstm_goal.Celecoxib%20rediscovery.html"
+        }
+    },
+    {
+        "benchmark": "Troglitazone rediscovery",
+        "Best of Dataset": {
+            "score": "0.419",
+            "link": "best_of_chembl_goal.Troglitazone%20rediscovery.html"
+        },
+        "SMILES GA": {
+            "score": "0.515",
+            "link": "smiles_ga_goal.Troglitazone%20rediscovery.html"
+        },
+        "Graph MCTS": {
+            "score": "0.311",
+            "link": "graph_mcts_goal.Troglitazone%20rediscovery.html"
+        },
+        "Graph GA": {
+            "score": "1.000",
+            "link": "graph_ga_goal.Troglitazone%20rediscovery.html"
+        },
+        "SMILES LSTM": {
+            "score": "1.000",
+            "link": "smiles_lstm_goal.Troglitazone%20rediscovery.html"
+        }
+    },
+    {
+        "benchmark": "Thiothixene rediscovery",
+        "Best of Dataset": {
+            "score": "0.456",
+            "link": "best_of_chembl_goal.Thiothixene%20rediscovery.html"
+        },
+        "SMILES GA": {
+            "score": "0.598",
+            "link": "smiles_ga_goal.Thiothixene%20rediscovery.html"
+        },
+        "Graph MCTS": {
+            "score": "0.311",
+            "link": "graph_mcts_goal.Thiothixene%20rediscovery.html"
+        },
+        "Graph GA": {
+            "score": "1.000",
+            "link": "graph_ga_goal.Thiothixene%20rediscovery.html"
+        },
+        "SMILES LSTM": {
+            "score": "1.000",
+            "link": "smiles_lstm_goal.Thiothixene%20rediscovery.html"
+        }
+    },
+    {
+        "benchmark": "Aripiprazole similarity",
+        "Best of Dataset": {
+            "score": "0.595",
+            "link": "best_of_chembl_goal.Aripiprazole%20similarity.html"
+        },
+        "SMILES GA": {
+            "score": "0.834",
+            "link": "smiles_ga_goal.Aripiprazole%20similarity.html"
+        },
+        "Graph MCTS": {
+            "score": "0.380",
+            "link": "graph_mcts_goal.Aripiprazole%20similarity.html"
+        },
+        "Graph GA": {
+            "score": "1.000",
+            "link": "graph_ga_goal.Aripiprazole%20similarity.html"
+        },
+        "SMILES LSTM": {
+            "score": "1.000",
+            "link": "smiles_lstm_goal.Aripiprazole%20similarity.html"
+        }
+    },
+    {
+        "benchmark": "Albuterol similarity",
+        "Best of Dataset": {
+            "score": "0.719",
+            "link": "best_of_chembl_goal.Albuterol%20similarity.html"
+        },
+        "SMILES GA": {
+            "score": "0.907",
+            "link": "smiles_ga_goal.Albuterol%20similarity.html"
+        },
+        "Graph MCTS": {
+            "score": "0.749",
+            "link": "graph_mcts_goal.Albuterol%20similarity.html"
+        },
+        "Graph GA": {
+            "score": "1.000",
+            "link": "graph_ga_goal.Albuterol%20similarity.html"
+        },
+        "SMILES LSTM": {
+            "score": "1.000",
+            "link": "smiles_lstm_goal.Albuterol%20similarity.html"
+        }
+    },
+    {
+        "benchmark": "Mestranol similarity",
+        "Best of Dataset": {
+            "score": "0.629",
+            "link": "best_of_chembl_goal.Mestranol%20similarity.html"
+        },
+        "SMILES GA": {
+            "score": "0.790",
+            "link": "smiles_ga_goal.Mestranol%20similarity.html"
+        },
+        "Graph MCTS": {
+            "score": "0.402",
+            "link": "graph_mcts_goal.Mestranol%20similarity.html"
+        },
+        "Graph GA": {
+            "score": "1.000",
+            "link": "graph_ga_goal.Mestranol%20similarity.html"
+        },
+        "SMILES LSTM": {
+            "score": "1.000",
+            "link": "smiles_lstm_goal.Mestranol%20similarity.html"
+        }
+    },
+    {
+        "benchmark": "C11H24",
+        "Best of Dataset": {
+            "score": "0.684",
+            "link": "best_of_chembl_goal.C11H24.html"
+        },
+        "SMILES GA": {
+            "score": "0.829",
+            "link": "smiles_ga_goal.C11H24.html"
+        },
+        "Graph MCTS": {
+            "score": "0.410",
+            "link": "graph_mcts_goal.C11H24.html"
+        },
+        "Graph GA": {
+            "score": "0.971",
+            "link": "graph_ga_goal.C11H24.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.993",
+            "link": "smiles_lstm_goal.C11H24.html"
+        }
+    },
+    {
+        "benchmark": "C9H10N2O2PF2Cl",
+        "Best of Dataset": {
+            "score": "0.747",
+            "link": "best_of_chembl_goal.C9H10N2O2PF2Cl.html"
+        },
+        "SMILES GA": {
+            "score": "0.889",
+            "link": "smiles_ga_goal.C9H10N2O2PF2Cl.html"
+        },
+        "Graph MCTS": {
+            "score": "0.631",
+            "link": "graph_mcts_goal.C9H10N2O2PF2Cl.html"
+        },
+        "Graph GA": {
+            "score": "0.982",
+            "link": "graph_ga_goal.C9H10N2O2PF2Cl.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.879",
+            "link": "smiles_lstm_goal.C9H10N2O2PF2Cl.html"
+        }
+    },
+    {
+        "benchmark": "Median molecules 1",
+        "Best of Dataset": {
+            "score": "0.334",
+            "link": "best_of_chembl_goal.Median%20molecules%201.html"
+        },
+        "SMILES GA": {
+            "score": "0.334",
+            "link": "smiles_ga_goal.Median%20molecules%201.html"
+        },
+        "Graph MCTS": {
+            "score": "0.225",
+            "link": "graph_mcts_goal.Median%20molecules%201.html"
+        },
+        "Graph GA": {
+            "score": "0.406",
+            "link": "graph_ga_goal.Median%20molecules%201.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.438",
+            "link": "smiles_lstm_goal.Median%20molecules%201.html"
+        }
+    },
+    {
+        "benchmark": "Median molecules 2",
+        "Best of Dataset": {
+            "score": "0.351",
+            "link": "best_of_chembl_goal.Median%20molecules%202.html"
+        },
+        "SMILES GA": {
+            "score": "0.380",
+            "link": "smiles_ga_goal.Median%20molecules%202.html"
+        },
+        "Graph MCTS": {
+            "score": "0.170",
+            "link": "graph_mcts_goal.Median%20molecules%202.html"
+        },
+        "Graph GA": {
+            "score": "0.432",
+            "link": "graph_ga_goal.Median%20molecules%202.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.422",
+            "link": "smiles_lstm_goal.Median%20molecules%202.html"
+        }
+    },
+    {
+        "benchmark": "Osimertinib MPO",
+        "Best of Dataset": {
+            "score": "0.839",
+            "link": "best_of_chembl_goal.Osimertinib%20MPO.html"
+        },
+        "SMILES GA": {
+            "score": "0.886",
+            "link": "smiles_ga_goal.Osimertinib%20MPO.html"
+        },
+        "Graph MCTS": {
+            "score": "0.784",
+            "link": "graph_mcts_goal.Osimertinib%20MPO.html"
+        },
+        "Graph GA": {
+            "score": "0.953",
+            "link": "graph_ga_goal.Osimertinib%20MPO.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.907",
+            "link": "smiles_lstm_goal.Osimertinib%20MPO.html"
+        }
+    },
+    {
+        "benchmark": "Fexofenadine MPO",
+        "Best of Dataset": {
+            "score": "0.817",
+            "link": "best_of_chembl_goal.Fexofenadine%20MPO.html"
+        },
+        "SMILES GA": {
+            "score": "0.931",
+            "link": "smiles_ga_goal.Fexofenadine%20MPO.html"
+        },
+        "Graph MCTS": {
+            "score": "0.695",
+            "link": "graph_mcts_goal.Fexofenadine%20MPO.html"
+        },
+        "Graph GA": {
+            "score": "0.998",
+            "link": "graph_ga_goal.Fexofenadine%20MPO.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.959",
+            "link": "smiles_lstm_goal.Fexofenadine%20MPO.html"
+        }
+    },
+    {
+        "benchmark": "Ranolazine MPO",
+        "Best of Dataset": {
+            "score": "0.792",
+            "link": "best_of_chembl_goal.Ranolazine%20MPO.html"
+        },
+        "SMILES GA": {
+            "score": "0.881",
+            "link": "smiles_ga_goal.Ranolazine%20MPO.html"
+        },
+        "Graph MCTS": {
+            "score": "0.616",
+            "link": "graph_mcts_goal.Ranolazine%20MPO.html"
+        },
+        "Graph GA": {
+            "score": "0.920",
+            "link": "graph_ga_goal.Ranolazine%20MPO.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.855",
+            "link": "smiles_lstm_goal.Ranolazine%20MPO.html"
+        }
+    },
+    {
+        "benchmark": "Perindopril MPO",
+        "Best of Dataset": {
+            "score": "0.575",
+            "link": "best_of_chembl_goal.Perindopril%20MPO.html"
+        },
+        "SMILES GA": {
+            "score": "0.661",
+            "link": "smiles_ga_goal.Perindopril%20MPO.html"
+        },
+        "Graph MCTS": {
+            "score": "0.385",
+            "link": "graph_mcts_goal.Perindopril%20MPO.html"
+        },
+        "Graph GA": {
+            "score": "0.792",
+            "link": "graph_ga_goal.Perindopril%20MPO.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.808",
+            "link": "smiles_lstm_goal.Perindopril%20MPO.html"
+        }
+    },
+    {
+        "benchmark": "Amlodipine MPO",
+        "Best of Dataset": {
+            "score": "0.696",
+            "link": "best_of_chembl_goal.Amlodipine%20MPO.html"
+        },
+        "SMILES GA": {
+            "score": "0.722",
+            "link": "smiles_ga_goal.Amlodipine%20MPO.html"
+        },
+        "Graph MCTS": {
+            "score": "0.533",
+            "link": "graph_mcts_goal.Amlodipine%20MPO.html"
+        },
+        "Graph GA": {
+            "score": "0.894",
+            "link": "graph_ga_goal.Amlodipine%20MPO.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.894",
+            "link": "smiles_lstm_goal.Amlodipine%20MPO.html"
+        }
+    },
+    {
+        "benchmark": "Sitagliptin MPO",
+        "Best of Dataset": {
+            "score": "0.509",
+            "link": "best_of_chembl_goal.Sitagliptin%20MPO.html"
+        },
+        "SMILES GA": {
+            "score": "0.689",
+            "link": "smiles_ga_goal.Sitagliptin%20MPO.html"
+        },
+        "Graph MCTS": {
+            "score": "0.458",
+            "link": "graph_mcts_goal.Sitagliptin%20MPO.html"
+        },
+        "Graph GA": {
+            "score": "0.891",
+            "link": "graph_ga_goal.Sitagliptin%20MPO.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.545",
+            "link": "smiles_lstm_goal.Sitagliptin%20MPO.html"
+        }
+    },
+    {
+        "benchmark": "Zaleplon MPO",
+        "Best of Dataset": {
+            "score": "0.547",
+            "link": "best_of_chembl_goal.Zaleplon%20MPO.html"
+        },
+        "SMILES GA": {
+            "score": "0.413",
+            "link": "smiles_ga_goal.Zaleplon%20MPO.html"
+        },
+        "Graph MCTS": {
+            "score": "0.488",
+            "link": "graph_mcts_goal.Zaleplon%20MPO.html"
+        },
+        "Graph GA": {
+            "score": "0.754",
+            "link": "graph_ga_goal.Zaleplon%20MPO.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.669",
+            "link": "smiles_lstm_goal.Zaleplon%20MPO.html"
+        }
+    },
+    {
+        "benchmark": "Valsartan SMARTS",
+        "Best of Dataset": {
+            "score": "0.259",
+            "link": "best_of_chembl_goal.Valsartan%20SMARTS.html"
+        },
+        "SMILES GA": {
+            "score": "0.552",
+            "link": "smiles_ga_goal.Valsartan%20SMARTS.html"
+        },
+        "Graph MCTS": {
+            "score": "0.040",
+            "link": "graph_mcts_goal.Valsartan%20SMARTS.html"
+        },
+        "Graph GA": {
+            "score": "0.990",
+            "link": "graph_ga_goal.Valsartan%20SMARTS.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.978",
+            "link": "smiles_lstm_goal.Valsartan%20SMARTS.html"
+        }
+    },
+    {
+        "benchmark": "Scaffold Hop",
+        "Best of Dataset": {
+            "score": "0.933",
+            "link": "best_of_chembl_goal.Scaffold%20Hop.html"
+        },
+        "SMILES GA": {
+            "score": "0.970",
+            "link": "smiles_ga_goal.Scaffold%20Hop.html"
+        },
+        "Graph MCTS": {
+            "score": "0.590",
+            "link": "graph_mcts_goal.Scaffold%20Hop.html"
+        },
+        "Graph GA": {
+            "score": "1.000",
+            "link": "graph_ga_goal.Scaffold%20Hop.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.996",
+            "link": "smiles_lstm_goal.Scaffold%20Hop.html"
+        }
+    },
+    {
+        "benchmark": "Deco Hop",
+        "Best of Dataset": {
+            "score": "0.738",
+            "link": "best_of_chembl_goal.Deco%20Hop.html"
+        },
+        "SMILES GA": {
+            "score": "0.885",
+            "link": "smiles_ga_goal.Deco%20Hop.html"
+        },
+        "Graph MCTS": {
+            "score": "0.478",
+            "link": "graph_mcts_goal.Deco%20Hop.html"
+        },
+        "Graph GA": {
+            "score": "1.000",
+            "link": "graph_ga_goal.Deco%20Hop.html"
+        },
+        "SMILES LSTM": {
+            "score": "0.998",
+            "link": "smiles_lstm_goal.Deco%20Hop.html"
+        }
+    }
+]
