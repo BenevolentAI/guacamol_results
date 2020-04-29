@@ -8,8 +8,9 @@ The Leaderboard and results will come available here soon...
 <h3>Goal directed benchmarks</h3>
 
 <div class="guacamol-table" id="jsGrid2"></div>
-    <!--</div>-->
-<!--</div>-->
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
 
 <script>
 
