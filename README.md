@@ -2,7 +2,6 @@
 
 The Leaderboard and results will come available here soon...
 
-
 <h3>Distribution benchmarks</h3>
 <div class="guacamol-table" id="jsGrid"></div>
 <h3>Goal directed benchmarks</h3>
@@ -11,8 +10,7 @@ The Leaderboard and results will come available here soon...
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 
-
-<script>
+<script type="text/javascript">
 
   /*
    * TODO:
